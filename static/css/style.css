@@ -1,0 +1,61 @@
+
+.Avengers{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.4)),url(..//images/background1.jpg);
+    background-size: 100% 100%;
+    height: 675px;
+    padding: 0.1% 0% 0% 0%;
+    margin-bottom: 0.1%;
+    background-repeat: no-repeat;
+}
+
+.superHeroes{
+    
+    border: 1px solid rgba(0,0,0,0.6);
+    float: left;
+    width: 18%;
+    background-color: rgba(0,0,0,0.4);
+    
+    height: 80px;
+    padding: 5% 0% 5%  0%;
+    margin: 7% 3% 1% 3%;
+    text-align: center;
+
+
+}
+.superHeroes a{
+    text-decoration: none;
+    color: white;
+}
+.title h1{
+    margin-left: 82%;
+
+}
+.sub{
+    
+    width: 100%;
+    margin: 0% 0% 0% 0%;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(..//images/background1.jpg);
+    height: 675px;
+    
+    float: left;
+}
+.sub img{
+    background-color: black;
+    border: 1px solid white;
+    margin: 5% 0% 0% 2.5%;
+    width: 20%;
+    box-shadow: 5px 5px 10px rgb(193, 239, 5);
+    padding: 1% 1% 1% 1%;
+    height: 500px;
+    float: left;
+}
+.title{
+    text-align: center;
+    margin-right:10% ;
+    margin-top: 5%;
+    font-family: "Anton SC" , serif;
+    font-size: 20px;
+    font-weight: 400;
+    
+    color:red;
+}
